@@ -1,2 +1,2 @@
 # comprehensive-exam
-MS comprehensive exam for graduation
+MS in Biostatistics comprehensive exam for graduation at UC Davis
